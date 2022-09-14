@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\bin\Debug\net6.0\Metodlar.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\bin\Debug\net6.0\Metodlar.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\bin\Debug\net6.0\Metodlar.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\bin\Debug\net6.0\Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\bin\Debug\net6.0\Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\refint\Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\Metodlar.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Metodlar\obj\Debug\net6.0\ref\Metodlar.dll

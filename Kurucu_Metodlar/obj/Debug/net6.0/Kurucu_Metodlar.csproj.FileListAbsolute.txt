@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\bin\Debug\net6.0\Kurucu_Metodlar.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\bin\Debug\net6.0\Kurucu_Metodlar.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\bin\Debug\net6.0\Kurucu_Metodlar.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\bin\Debug\net6.0\Kurucu_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\bin\Debug\net6.0\Kurucu_Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\refint\Kurucu_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\Kurucu_Metodlar.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Kurucu_Metodlar\obj\Debug\net6.0\ref\Kurucu_Metodlar.dll

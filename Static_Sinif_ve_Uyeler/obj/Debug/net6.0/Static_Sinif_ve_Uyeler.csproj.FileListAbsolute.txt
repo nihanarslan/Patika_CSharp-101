@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\bin\Debug\net6.0\Static_Sinif_ve_Uyeler.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\bin\Debug\net6.0\Static_Sinif_ve_Uyeler.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\bin\Debug\net6.0\Static_Sinif_ve_Uyeler.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\bin\Debug\net6.0\Static_Sinif_ve_Uyeler.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\bin\Debug\net6.0\Static_Sinif_ve_Uyeler.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\refint\Static_Sinif_ve_Uyeler.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\Static_Sinif_ve_Uyeler.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Static_Sinif_ve_Uyeler\obj\Debug\net6.0\ref\Static_Sinif_ve_Uyeler.dll

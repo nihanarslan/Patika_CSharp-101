@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

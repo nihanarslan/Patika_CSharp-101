@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-3.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Koleksiyonlar_algoritmaSorulari_Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-3.dll

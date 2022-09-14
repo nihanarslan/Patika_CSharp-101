@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\bin\Debug\net6.0\Generic_List.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\bin\Debug\net6.0\Generic_List.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\bin\Debug\net6.0\Generic_List.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\bin\Debug\net6.0\Generic_List.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\bin\Debug\net6.0\Generic_List.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\refint\Generic_List.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\Generic_List.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Generic_List\obj\Debug\net6.0\ref\Generic_List.dll

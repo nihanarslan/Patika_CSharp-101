@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\bin\Debug\net6.0\If-elseif.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\bin\Debug\net6.0\If-elseif.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\bin\Debug\net6.0\If-elseif.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\bin\Debug\net6.0\If-elseif.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\bin\Debug\net6.0\If-elseif.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\refint\If-elseif.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\If-elseif.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\If-elseif\obj\Debug\net6.0\ref\If-elseif.dll

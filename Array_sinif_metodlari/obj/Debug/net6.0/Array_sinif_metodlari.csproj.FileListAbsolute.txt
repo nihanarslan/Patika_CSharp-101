@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\bin\Debug\net6.0\Array_sinif_metodlari.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\bin\Debug\net6.0\Array_sinif_metodlari.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\bin\Debug\net6.0\Array_sinif_metodlari.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\bin\Debug\net6.0\Array_sinif_metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\bin\Debug\net6.0\Array_sinif_metodlari.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\refint\Array_sinif_metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\Array_sinif_metodlari.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Array_sinif_metodlari\obj\Debug\net6.0\ref\Array_sinif_metodlari.dll

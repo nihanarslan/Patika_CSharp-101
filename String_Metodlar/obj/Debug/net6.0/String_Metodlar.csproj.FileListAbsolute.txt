@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\bin\Debug\net6.0\String_Metodlar.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\bin\Debug\net6.0\String_Metodlar.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\bin\Debug\net6.0\String_Metodlar.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\bin\Debug\net6.0\String_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\bin\Debug\net6.0\String_Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\refint\String_Metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\String_Metodlar.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\String_Metodlar\obj\Debug\net6.0\ref\String_Metodlar.dll

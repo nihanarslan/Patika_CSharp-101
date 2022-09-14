@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\bin\Debug\net6.0\DateTime_Math_Metodlari.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\bin\Debug\net6.0\DateTime_Math_Metodlari.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\bin\Debug\net6.0\DateTime_Math_Metodlari.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\bin\Debug\net6.0\DateTime_Math_Metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\bin\Debug\net6.0\DateTime_Math_Metodlari.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\refint\DateTime_Math_Metodlari.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\DateTime_Math_Metodlari.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\DateTime_Math_Metodlari\obj\Debug\net6.0\ref\DateTime_Math_Metodlari.dll

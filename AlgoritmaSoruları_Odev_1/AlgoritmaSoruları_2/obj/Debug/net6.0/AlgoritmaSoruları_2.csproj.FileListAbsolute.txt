@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\bin\Debug\net6.0\AlgoritmaSoruları_2.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\bin\Debug\net6.0\AlgoritmaSoruları_2.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\bin\Debug\net6.0\AlgoritmaSoruları_2.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\bin\Debug\net6.0\AlgoritmaSoruları_2.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\bin\Debug\net6.0\AlgoritmaSoruları_2.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\refint\AlgoritmaSoruları_2.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\AlgoritmaSoruları_2.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\AlgoritmaSoruları_Odev_1\AlgoritmaSoruları_2\obj\Debug\net6.0\ref\AlgoritmaSoruları_2.dll

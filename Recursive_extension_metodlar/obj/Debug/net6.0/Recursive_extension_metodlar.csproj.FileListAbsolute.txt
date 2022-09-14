@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\bin\Debug\net6.0\Recursive_extension_metodlar.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\bin\Debug\net6.0\Recursive_extension_metodlar.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\bin\Debug\net6.0\Recursive_extension_metodlar.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\bin\Debug\net6.0\Recursive_extension_metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\bin\Debug\net6.0\Recursive_extension_metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\refint\Recursive_extension_metodlar.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\Recursive_extension_metodlar.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Recursive_extension_metodlar\obj\Debug\net6.0\ref\Recursive_extension_metodlar.dll

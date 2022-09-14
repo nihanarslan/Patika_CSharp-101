@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\refint\Tip_Donusumleri.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Tip_Donusumleri\obj\Debug\net6.0\ref\Tip_Donusumleri.dll

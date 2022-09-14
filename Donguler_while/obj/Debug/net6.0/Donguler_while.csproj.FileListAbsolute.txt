@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\bin\Debug\net6.0\Donguler_while.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\bin\Debug\net6.0\Donguler_while.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\bin\Debug\net6.0\Donguler_while.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\bin\Debug\net6.0\Donguler_while.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\bin\Debug\net6.0\Donguler_while.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\refint\Donguler_while.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\Donguler_while.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Donguler_while\obj\Debug\net6.0\ref\Donguler_while.dll
